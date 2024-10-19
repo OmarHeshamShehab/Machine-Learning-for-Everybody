@@ -34,24 +34,27 @@ This repository contains course materials and exercises for the "Machine Learnin
 
 ## Directory Structure
 
-- **Supervised learning With Classification**
-  - `KNN.ipynb`: Jupyter notebook implementing K-Nearest Neighbors for classification.
-  - `Logistic Regression.ipynb`: Jupyter notebook implementing Logistic Regression.
-  - `Naive Bayes.ipynb`: Jupyter notebook implementing Naive Bayes classifier.
-  - `Neural Network.ipynb`: Jupyter notebook implementing a Neural Network for classification.
-  - `SVM.ipynb`: Jupyter notebook implementing Support Vector Machines for classification.
-  - `magic04.data`: Dataset used for various classification examples.
+### Supervised Learning With Classification
 
-- **Supervised learning with Regression**
-  - `Linear Regression.ipynb`: Jupyter notebook implementing simple linear regression.
-  - `Multiple Linear Regression.ipynb`: Jupyter notebook implementing multiple linear regression.
-  - `Nerual Network.ipynb`: Jupyter notebook implementing a neural network for regression tasks.
-  - `Regression Nerual Network.ipynb`: Jupyter notebook demonstrating regression using neural networks.
-  - `SeoulBikeData.csv`: Dataset for regression tasks.
+- `KNN.ipynb`: Jupyter notebook implementing K-Nearest Neighbors for classification.
+- `Logistic Regression.ipynb`: Jupyter notebook implementing Logistic Regression.
+- `Naive Bayes.ipynb`: Jupyter notebook implementing Naive Bayes classifier.
+- `Neural Network.ipynb`: Jupyter notebook implementing a Neural Network for classification.
+- `SVM.ipynb`: Jupyter notebook implementing Support Vector Machines for classification.
+- `magic04.data`: Dataset used for various classification examples.
 
-- **Unsupervised learning Clustering**
-  - `K-means Cluster.ipynb`: Jupyter notebook implementing K-means clustering.
-  - `seeds_dataset.txt`: Dataset used for clustering examples.
+### Supervised Learning with Regression
+
+- `Linear Regression.ipynb`: Jupyter notebook implementing simple linear regression.
+- `Multiple Linear Regression.ipynb`: Jupyter notebook implementing multiple linear regression.
+- `Nerual Network.ipynb`: Jupyter notebook implementing a neural network for regression tasks.
+- `Regression Nerual Network.ipynb`: Jupyter notebook demonstrating regression using neural networks.
+- `SeoulBikeData.csv`: Dataset for regression tasks.
+
+### Unsupervised Learning Clustering
+
+- `K-means Cluster.ipynb`: Jupyter notebook implementing K-means clustering.
+- `seeds_dataset.txt`: Dataset used for clustering examples.
 
 ## Deep Dive into Algorithms
 
