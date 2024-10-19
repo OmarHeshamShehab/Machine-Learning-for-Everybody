@@ -6,9 +6,9 @@ This repository contains course materials and exercises for the "Machine Learnin
 
 - [Course Overview](#course-overview)
 - [Directory Structure](#directory-structure)
-  - [Supervised Learning With Classification](#supervised-learning-with-classification)
-  - [Supervised Learning with Regression](#supervised-learning-with-regression)
-  - [Unsupervised Learning Clustering](#unsupervised-learning-clustering)
+  - [Supervised Learning With Classification](#supervised-learning-with-classification-1)
+  - [Supervised Learning with Regression](#supervised-learning-with-regression-1)
+  - [Unsupervised Learning Clustering](#unsupervised-learning-clustering-1)
 - [Deep Dive into Algorithms](#deep-dive-into-algorithms)
   - [Classification Algorithms](#classification-algorithms)
     - [K-Nearest Neighbors (KNN)](#k-nearest-neighbors-knn)
